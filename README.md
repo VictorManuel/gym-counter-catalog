@@ -84,7 +84,8 @@ Ver AGENTS.md: obligación de cierre incluida la tarea que queda solamente local
 
 ## Pendientes conocidos
 
-- staging remota ausente; ninguna rama de trabajo la sustituye.
+- staging creada desde main remoto, sin habilitar despliegues. Su código se revisa
+  por commit; la existencia de la rama no implica un entorno disponible.
 - Auditoría estática, sin nueva aceptación funcional de las aplicaciones.
 - Evidencia privada requiere acceso.
 - Avances locales y de otras ramas no cuentan como integrados en main.
