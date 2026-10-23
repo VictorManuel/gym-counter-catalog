@@ -1,0 +1,10 @@
+{
+  "name": "Gym Counter",
+  "repository": "https://github.com/VictorManuel/gym-counter.git",
+  "webUrl": "https://github.com/VictorManuel/gym-counter",
+  "private": true,
+  "branches": [
+    "staging",
+    "main"
+  ]
+}
