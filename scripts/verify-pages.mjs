@@ -1,4 +1,4 @@
-import {readFileSync,writeFileSync,mkdirSync} from 'node:fs';import {createHash} from 'node:crypto';import {resolve} from 'node:path';import {fileURLToPath} from 'node:url';
+import {readFileSync,writeFileSync,mkdirSync,readdirSync} from 'node:fs';import {createHash} from 'node:crypto';import {resolve} from 'node:path';import {fileURLToPath} from 'node:url';
 export const url='https://victormanuel.github.io/gym-counter-catalog/';
 export async function verify(){
  const expected=readFileSync('data/status.json','utf8');const hash=x=>createHash('sha256').update(x).digest('hex');
@@ -8,7 +8,7 @@ export async function verify(){
    const [html,json]=await Promise.all([fetch(url+bust,{signal:AbortSignal.timeout(20000)}),fetch(url+'status.json'+bust,{signal:AbortSignal.timeout(20000)})]);
    const text=await json.text();if(html.ok&&json.ok&&hash(text)===hash(expected)){
     // Verify all served presentation assets too: no false success with stale UI.
-    const checks=await Promise.all(['index.html','styles.css','app.mjs','model.mjs','favicon.svg'].map(async f=>{const response=await fetch(url+f+bust,{signal:AbortSignal.timeout(20000)});return response.ok&&hash(Buffer.from(await response.arrayBuffer()))===hash(readFileSync('dist/'+f));}));
+    const checks=await Promise.all(['index.html','styles.css','app.mjs','model.mjs','manual.mjs','favicon.svg',...readdirSync('dist/manual-assets').map(f=>'manual-assets/'+f)].map(async f=>{const response=await fetch(url+f+bust,{signal:AbortSignal.timeout(20000)});return response.ok&&hash(Buffer.from(await response.arrayBuffer()))===hash(readFileSync('dist/'+f));}));
     if(checks.every(Boolean)){const result={url,verifiedAt:new Date().toISOString(),snapshotAt:JSON.parse(text).snapshotAt,sha256:hash(text),assetsVerified:true};mkdirSync('.cache',{recursive:true});writeFileSync('.cache/last-publication.json',JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify(result,null,2));return result;}
    }
   }catch{/* Record terminal failure below, allow bounded Pages propagation. */}

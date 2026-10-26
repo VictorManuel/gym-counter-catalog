@@ -4,3 +4,6 @@ dist/
 playwright-report/
 test-results/
 .DS_Store
+
+.impeccable/review/
+# Capturas temporales de revisión; las del manual viven en src/manual-assets.
