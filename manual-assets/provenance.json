@@ -1,0 +1,35 @@
+{
+  "kind": "real-interface-screenshots-with-synthetic-data",
+  "sourceBaseline": "8c532bc6d906b598f10599724607a7d6c754460d",
+  "scope": "Portal de desarrollo. No acredita integración remota, pruebas end-to-end, disponibilidad productiva ni entrega de emails. Esta edición no incluye capturas Android/iOS.",
+  "images": [
+    {
+      "file": "portal-asignacion.png",
+      "sha256": "0ad7407f4abbccc81d1e5025e81261ea6d59376505fe8185bbd587fb5ae8eb80",
+      "width": 1280,
+      "height": 760,
+      "origin": "Captura real mediante CUA de portal local con API simulada y datos ficticios. Sin DB, usuarios reales ni envío de correo."
+    },
+    {
+      "file": "portal-editor.png",
+      "sha256": "ffb7357f427347dd466f485a1015a5a8edfaf2ece60ed5830fb10d0a13b07ed4",
+      "width": 1280,
+      "height": 1227,
+      "origin": "Captura real mediante CUA de portal local con API simulada y datos ficticios. Sin DB, usuarios reales ni envío de correo."
+    },
+    {
+      "file": "portal-invitaciones.png",
+      "sha256": "3482cb21ca99b28ef4dedb8c2c774158813fea8d6324067f3602b24c987de39f",
+      "width": 1280,
+      "height": 721,
+      "origin": "Captura real mediante CUA de portal local con API simulada y datos ficticios. Sin DB, usuarios reales ni envío de correo."
+    },
+    {
+      "file": "portal-resumen.png",
+      "sha256": "cd9dcd257e5f121d19e1a2813dfac0a338acc03038ef9dbd2c95bc95733ca8fb",
+      "width": 1280,
+      "height": 830,
+      "origin": "Captura real mediante CUA de portal local con API simulada y datos ficticios. Sin DB, usuarios reales ni envío de correo."
+    }
+  ]
+}
