@@ -74,7 +74,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "implemented",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "backend/src/routes/auth.ts",
@@ -173,7 +173,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "implemented",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "backend/src/routes/coach.ts",
@@ -268,7 +268,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "pending",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "ROADMAP.md",
@@ -356,7 +356,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "pending",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "ROADMAP.md",
@@ -440,7 +440,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "implemented",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "backend/src/routes/coach.ts",
@@ -520,7 +520,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "partial",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/coach-web/src/App.tsx",
@@ -600,7 +600,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "implemented",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "backend/src/routes/routines.ts",
@@ -684,7 +684,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "pending",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/coach-web/src/App.tsx",
@@ -786,7 +786,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "implemented",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt",
@@ -884,7 +884,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "implemented",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt",
@@ -964,7 +964,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "implemented",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt",
@@ -1044,7 +1044,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "implemented",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/mobile/android/app/src/main/java/com/gymcounter/GymWidgetProvider.kt",
@@ -1131,7 +1131,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "implemented",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt",
@@ -1225,7 +1225,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "implemented",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt",
@@ -1338,7 +1338,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "partial",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/mobile/android/app/src/main/java/com/gymcounter/GymSyncWorker.kt",
@@ -1444,7 +1444,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "partial",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/mobile/App.tsx",
@@ -1513,7 +1513,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "unverified",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/watch/README.md",
@@ -1582,7 +1582,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "partial",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "apps/mobile/android/app/build.gradle",
@@ -1655,7 +1655,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "unverified",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "docs/progress.md",
@@ -1721,7 +1721,7 @@ de implementación. El historial anterior de main se conserva.
       "staging": {
         "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
         "status": "pending",
-        "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+        "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
         "evidence": [
           {
             "path": "ROADMAP.md",
@@ -1743,6 +1743,64 @@ de implementación. El historial anterior de main se conserva.
           {
             "path": "apps/coach-web/src/router.tsx",
             "object": "a9c222c0a2eaf919aa58feff6fb56b041c4d31cc"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "GC-021",
+    "name": "Correo transaccional (Resend)",
+    "description": "Envío de invitaciones por correo y activación segura mediante proveedor configurable.",
+    "category": "Cuenta y acceso",
+    "phase": "Antes del lanzamiento",
+    "notes": "Resend previsto como proveedor. El avance local de invitaciones aún no está integrado ni desplegado; requiere dominio/remitente verificados y prueba real. Recuperación y eliminación tienen seguimiento separado. Aceptación del proveedor no garantiza entrega.",
+    "reviews": {
+      "main": {
+        "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
+        "status": "pending",
+        "verification": "Revisión estática por rama: el roadmap prevé correo transaccional y la ruta de invitaciones revisada devuelve enlace/token sin envío. El avance local de Resend no está incluido en esta referencia. Sin prueba de entrega real.",
+        "evidence": [
+          {
+            "path": "ROADMAP.md",
+            "start": 98,
+            "end": 99,
+            "kind": "plan",
+            "blob": "aec46a85511d3fa27a7f223f8813ce40b58d3399"
+          }
+        ],
+        "guards": [
+          {
+            "path": "ROADMAP.md",
+            "object": "aec46a85511d3fa27a7f223f8813ce40b58d3399"
+          },
+          {
+            "path": "backend/src/routes/coach.ts",
+            "object": "59e78eb0ca7f3b35668301b341b6353c0b9d8897"
+          }
+        ]
+      },
+      "staging": {
+        "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+        "status": "pending",
+        "verification": "Revisión estática por rama: el roadmap prevé correo transaccional y la ruta de invitaciones revisada devuelve enlace/token sin envío. El avance local de Resend no está incluido en esta referencia. Sin prueba de entrega real.",
+        "evidence": [
+          {
+            "path": "ROADMAP.md",
+            "start": 98,
+            "end": 99,
+            "kind": "plan",
+            "blob": "aec46a85511d3fa27a7f223f8813ce40b58d3399"
+          }
+        ],
+        "guards": [
+          {
+            "path": "ROADMAP.md",
+            "object": "aec46a85511d3fa27a7f223f8813ce40b58d3399"
+          },
+          {
+            "path": "backend/src/routes/coach.ts",
+            "object": "59e78eb0ca7f3b35668301b341b6353c0b9d8897"
           }
         ]
       }

@@ -90,3 +90,12 @@ Ver AGENTS.md: obligación de cierre incluida la tarea que queda solamente local
 - Evidencia privada requiere acceso.
 - Avances locales y de otras ramas no cuentan como integrados en main.
 - Publicación y despliegue de aplicaciones sin verificar.
+
+## Manual visual público
+
+El enlace **Manual** lleva a la sección final `#manual`: cuatro capturas reales del portal con
+personas ficticias, pasos explicados, guía Android, tres gráficos de flujo y listado completo
+con estados por rama. Ver [alcance y mantenimiento](docs/manual.md).
+Las capturas no acreditan un despliegue; Android se describe sin capturas en esta edición.
+El build y verificador incluyen los assets y su procedencia. Las pruebas toleran cantidades
+variables de funciones y commits de evidencia distintos por rama.

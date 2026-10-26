@@ -3,11 +3,11 @@
   "project": "Gym Counter",
   "repository": "https://github.com/VictorManuel/gym-counter",
   "privateSource": true,
-  "snapshotAt": "2026-10-23T00:54:30.348Z",
+  "snapshotAt": "2026-10-26T02:55:14.782Z",
   "branches": {
     "staging": {
       "ref": "refs/heads/staging",
-      "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
+      "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
       "available": true
     },
     "main": {
@@ -27,8 +27,8 @@
       "branches": {
         "staging": {
           "status": "implemented",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -39,7 +39,7 @@
               "end": 68,
               "kind": "code",
               "blob": "d3b84d9307fe6e3ad20142cff5d2abf7d00d44cf",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/backend/src/routes/auth.ts#L26-L68",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/backend/src/routes/auth.ts#L26-L68",
               "requiresAccess": true
             },
             {
@@ -48,7 +48,7 @@
               "end": 42,
               "kind": "code",
               "blob": "a88145402acdb1b69eac10b5fc40fd8059bec5f5",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/coach-web/src/auth.tsx#L1-L42",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/coach-web/src/auth.tsx#L1-L42",
               "requiresAccess": true
             }
           ],
@@ -97,8 +97,8 @@
       "branches": {
         "staging": {
           "status": "implemented",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -109,7 +109,7 @@
               "end": 89,
               "kind": "code",
               "blob": "59e78eb0ca7f3b35668301b341b6353c0b9d8897",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/backend/src/routes/coach.ts#L53-L89",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/backend/src/routes/coach.ts#L53-L89",
               "requiresAccess": true
             },
             {
@@ -118,7 +118,7 @@
               "end": 33,
               "kind": "code",
               "blob": "b129f21de81a1661a6a4a6154faa86a10c6107a4",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/backend/src/routes/athlete.ts#L9-L33",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/backend/src/routes/athlete.ts#L9-L33",
               "requiresAccess": true
             },
             {
@@ -127,7 +127,7 @@
               "end": 68,
               "kind": "code",
               "blob": "6e4c1c3c32df5cea617cddf1fd33fbefd5d5a699",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/coach-web/src/App.tsx#L41-L68",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/coach-web/src/App.tsx#L41-L68",
               "requiresAccess": true
             }
           ],
@@ -185,8 +185,8 @@
       "branches": {
         "staging": {
           "status": "pending",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -197,7 +197,7 @@
               "end": 99,
               "kind": "plan",
               "blob": "aec46a85511d3fa27a7f223f8813ce40b58d3399",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/ROADMAP.md#L94-L99",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/ROADMAP.md#L94-L99",
               "requiresAccess": true
             },
             {
@@ -206,7 +206,7 @@
               "end": 70,
               "kind": "code",
               "blob": "d3b84d9307fe6e3ad20142cff5d2abf7d00d44cf",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/backend/src/routes/auth.ts#L8-L70",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/backend/src/routes/auth.ts#L8-L70",
               "requiresAccess": true
             }
           ],
@@ -255,8 +255,8 @@
       "branches": {
         "staging": {
           "status": "pending",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -267,7 +267,7 @@
               "end": 109,
               "kind": "plan",
               "blob": "aec46a85511d3fa27a7f223f8813ce40b58d3399",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/ROADMAP.md#L100-L109",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/ROADMAP.md#L100-L109",
               "requiresAccess": true
             },
             {
@@ -276,7 +276,7 @@
               "end": 18,
               "kind": "code",
               "blob": "4f65000508bd916e3a00222a48bb4230474e3b88",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/backend/src/routes/me.ts#L3-L18",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/backend/src/routes/me.ts#L3-L18",
               "requiresAccess": true
             }
           ],
@@ -325,8 +325,8 @@
       "branches": {
         "staging": {
           "status": "implemented",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -337,7 +337,7 @@
               "end": 50,
               "kind": "code",
               "blob": "59e78eb0ca7f3b35668301b341b6353c0b9d8897",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/backend/src/routes/coach.ts#L12-L50",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/backend/src/routes/coach.ts#L12-L50",
               "requiresAccess": true
             },
             {
@@ -346,7 +346,7 @@
               "end": 147,
               "kind": "code",
               "blob": "6e4c1c3c32df5cea617cddf1fd33fbefd5d5a699",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/coach-web/src/App.tsx#L93-L147",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/coach-web/src/App.tsx#L93-L147",
               "requiresAccess": true
             }
           ],
@@ -395,8 +395,8 @@
       "branches": {
         "staging": {
           "status": "partial",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -407,7 +407,7 @@
               "end": 193,
               "kind": "code",
               "blob": "6e4c1c3c32df5cea617cddf1fd33fbefd5d5a699",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/coach-web/src/App.tsx#L156-L193",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/coach-web/src/App.tsx#L156-L193",
               "requiresAccess": true
             },
             {
@@ -416,7 +416,7 @@
               "end": 78,
               "kind": "code",
               "blob": "737affde57777d578f5e72eb104721f511eae785",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/backend/src/routes/routines.ts#L44-L78",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/backend/src/routes/routines.ts#L44-L78",
               "requiresAccess": true
             }
           ],
@@ -465,8 +465,8 @@
       "branches": {
         "staging": {
           "status": "implemented",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -477,7 +477,7 @@
               "end": 113,
               "kind": "code",
               "blob": "737affde57777d578f5e72eb104721f511eae785",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/backend/src/routes/routines.ts#L81-L113",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/backend/src/routes/routines.ts#L81-L113",
               "requiresAccess": true
             },
             {
@@ -486,7 +486,7 @@
               "end": 147,
               "kind": "code",
               "blob": "6e4c1c3c32df5cea617cddf1fd33fbefd5d5a699",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/coach-web/src/App.tsx#L130-L147",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/coach-web/src/App.tsx#L130-L147",
               "requiresAccess": true
             }
           ],
@@ -535,8 +535,8 @@
       "branches": {
         "staging": {
           "status": "pending",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -547,7 +547,7 @@
               "end": 184,
               "kind": "code",
               "blob": "6e4c1c3c32df5cea617cddf1fd33fbefd5d5a699",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/coach-web/src/App.tsx#L174-L184",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/coach-web/src/App.tsx#L174-L184",
               "requiresAccess": true
             },
             {
@@ -556,7 +556,7 @@
               "end": 44,
               "kind": "code",
               "blob": "737affde57777d578f5e72eb104721f511eae785",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/backend/src/routes/routines.ts#L12-L44",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/backend/src/routes/routines.ts#L12-L44",
               "requiresAccess": true
             }
           ],
@@ -605,8 +605,8 @@
       "branches": {
         "staging": {
           "status": "implemented",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -617,7 +617,7 @@
               "end": 664,
               "kind": "code",
               "blob": "f1050d4500ed12c03663db6fbe271cdda0676d61",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L640-L664",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L640-L664",
               "requiresAccess": true
             },
             {
@@ -626,7 +626,7 @@
               "end": 1225,
               "kind": "code",
               "blob": "f1050d4500ed12c03663db6fbe271cdda0676d61",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L1180-L1225",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L1180-L1225",
               "requiresAccess": true
             },
             {
@@ -635,7 +635,7 @@
               "end": 35,
               "kind": "code",
               "blob": "7ff65d5b899c6fd48f777aca86e2a660d5be2d81",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymStorageModule.kt#L23-L35",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymStorageModule.kt#L23-L35",
               "requiresAccess": true
             },
             {
@@ -644,7 +644,7 @@
               "end": 289,
               "kind": "code",
               "blob": "37ef7b1cea33466df8d6a40b9bea148503599243",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/App.tsx#L252-L289",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/App.tsx#L252-L289",
               "requiresAccess": true
             }
           ],
@@ -711,8 +711,8 @@
       "branches": {
         "staging": {
           "status": "implemented",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -723,7 +723,7 @@
               "end": 749,
               "kind": "code",
               "blob": "f1050d4500ed12c03663db6fbe271cdda0676d61",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L721-L749",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L721-L749",
               "requiresAccess": true
             },
             {
@@ -732,7 +732,7 @@
               "end": 250,
               "kind": "code",
               "blob": "37ef7b1cea33466df8d6a40b9bea148503599243",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/App.tsx#L232-L250",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/App.tsx#L232-L250",
               "requiresAccess": true
             }
           ],
@@ -781,8 +781,8 @@
       "branches": {
         "staging": {
           "status": "implemented",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -793,7 +793,7 @@
               "end": 819,
               "kind": "code",
               "blob": "f1050d4500ed12c03663db6fbe271cdda0676d61",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L777-L819",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L777-L819",
               "requiresAccess": true
             },
             {
@@ -802,7 +802,7 @@
               "end": 29,
               "kind": "code",
               "blob": "7ff65d5b899c6fd48f777aca86e2a660d5be2d81",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymStorageModule.kt#L25-L29",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymStorageModule.kt#L25-L29",
               "requiresAccess": true
             }
           ],
@@ -851,8 +851,8 @@
       "branches": {
         "staging": {
           "status": "implemented",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -863,7 +863,7 @@
               "end": 43,
               "kind": "code",
               "blob": "08a1071c6aa220d34ef42356aa8e89d6c1804e8c",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymWidgetProvider.kt#L27-L43",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymWidgetProvider.kt#L27-L43",
               "requiresAccess": true
             },
             {
@@ -872,7 +872,7 @@
               "end": 127,
               "kind": "code",
               "blob": "08a1071c6aa220d34ef42356aa8e89d6c1804e8c",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymWidgetProvider.kt#L64-L127",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymWidgetProvider.kt#L64-L127",
               "requiresAccess": true
             }
           ],
@@ -921,8 +921,8 @@
       "branches": {
         "staging": {
           "status": "implemented",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -933,7 +933,7 @@
               "end": 988,
               "kind": "code",
               "blob": "f1050d4500ed12c03663db6fbe271cdda0676d61",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L821-L988",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L821-L988",
               "requiresAccess": true
             },
             {
@@ -942,7 +942,7 @@
               "end": 104,
               "kind": "code",
               "blob": "7ff65d5b899c6fd48f777aca86e2a660d5be2d81",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymStorageModule.kt#L76-L104",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymStorageModule.kt#L76-L104",
               "requiresAccess": true
             },
             {
@@ -951,7 +951,7 @@
               "end": 455,
               "kind": "code",
               "blob": "37ef7b1cea33466df8d6a40b9bea148503599243",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/App.tsx#L374-L455",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/App.tsx#L374-L455",
               "requiresAccess": true
             }
           ],
@@ -1009,8 +1009,8 @@
       "branches": {
         "staging": {
           "status": "implemented",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -1021,7 +1021,7 @@
               "end": 1058,
               "kind": "code",
               "blob": "f1050d4500ed12c03663db6fbe271cdda0676d61",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L1002-L1058",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L1002-L1058",
               "requiresAccess": true
             },
             {
@@ -1030,7 +1030,7 @@
               "end": 1302,
               "kind": "code",
               "blob": "f1050d4500ed12c03663db6fbe271cdda0676d61",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L1259-L1302",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L1259-L1302",
               "requiresAccess": true
             },
             {
@@ -1039,7 +1039,7 @@
               "end": 162,
               "kind": "code",
               "blob": "7ff65d5b899c6fd48f777aca86e2a660d5be2d81",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymStorageModule.kt#L108-L162",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymStorageModule.kt#L108-L162",
               "requiresAccess": true
             }
           ],
@@ -1097,8 +1097,8 @@
       "branches": {
         "staging": {
           "status": "partial",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -1109,7 +1109,7 @@
               "end": 73,
               "kind": "code",
               "blob": "6b0b276bc9ff276d74cb5e4ac72ce3d0a57a7624",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymSyncWorker.kt#L19-L73",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymSyncWorker.kt#L19-L73",
               "requiresAccess": true
             },
             {
@@ -1118,7 +1118,7 @@
               "end": 35,
               "kind": "code",
               "blob": "ed4f8cd1769f163ba193c4f1c5b7196d4002fe71",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/backend/src/routes/sync.ts#L9-L35",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/backend/src/routes/sync.ts#L9-L35",
               "requiresAccess": true
             },
             {
@@ -1127,7 +1127,7 @@
               "end": 153,
               "kind": "code",
               "blob": "f1050d4500ed12c03663db6fbe271cdda0676d61",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L146-L153",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L146-L153",
               "requiresAccess": true
             },
             {
@@ -1136,7 +1136,7 @@
               "end": 330,
               "kind": "code",
               "blob": "f1050d4500ed12c03663db6fbe271cdda0676d61",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L293-L330",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/src/main/java/com/gymcounter/GymDatabase.kt#L293-L330",
               "requiresAccess": true
             }
           ],
@@ -1203,8 +1203,8 @@
       "branches": {
         "staging": {
           "status": "partial",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -1215,7 +1215,7 @@
               "end": 172,
               "kind": "code",
               "blob": "37ef7b1cea33466df8d6a40b9bea148503599243",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/App.tsx#L143-L172",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/App.tsx#L143-L172",
               "requiresAccess": true
             },
             {
@@ -1224,7 +1224,7 @@
               "end": 43,
               "kind": "plan",
               "blob": "aec46a85511d3fa27a7f223f8813ce40b58d3399",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/ROADMAP.md#L40-L43",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/ROADMAP.md#L40-L43",
               "requiresAccess": true
             }
           ],
@@ -1273,8 +1273,8 @@
       "branches": {
         "staging": {
           "status": "unverified",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -1285,7 +1285,7 @@
               "end": 15,
               "kind": "plan",
               "blob": "6bf0ed0654f8f2d67cd488e09d084aa0a1813d0f",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/watch/README.md#L1-L15",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/watch/README.md#L1-L15",
               "requiresAccess": true
             }
           ],
@@ -1325,8 +1325,8 @@
       "branches": {
         "staging": {
           "status": "partial",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -1337,7 +1337,7 @@
               "end": 107,
               "kind": "code",
               "blob": "c186508cbd9abe2da2d7b8268a1c51bc15435f19",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/apps/mobile/android/app/build.gradle#L90-L107",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/apps/mobile/android/app/build.gradle#L90-L107",
               "requiresAccess": true
             },
             {
@@ -1346,7 +1346,7 @@
               "end": 48,
               "kind": "plan",
               "blob": "aec46a85511d3fa27a7f223f8813ce40b58d3399",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/ROADMAP.md#L40-L48",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/ROADMAP.md#L40-L48",
               "requiresAccess": true
             }
           ],
@@ -1395,8 +1395,8 @@
       "branches": {
         "staging": {
           "status": "unverified",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -1407,7 +1407,7 @@
               "end": 38,
               "kind": "plan",
               "blob": "0f4304d5603e7e933d7c167a32e59726daed27b3",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/docs/progress.md#L32-L38",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/docs/progress.md#L32-L38",
               "requiresAccess": true
             }
           ],
@@ -1447,8 +1447,8 @@
       "branches": {
         "staging": {
           "status": "pending",
-          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
-          "verification": "Revisión estática: staging y main remotos coinciden exactamente con el commit auditado. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por objetos de evidencia y contexto conservados desde el commit auditado; no implica igualdad de referencias main/staging. Sin prueba funcional nueva; staging no tiene despliegue habilitado por este trabajo.",
           "integration": "Código/documentación presente en staging remoto",
           "publication": "Sin verificar",
           "deployment": "Sin verificar",
@@ -1459,7 +1459,7 @@
               "end": 130,
               "kind": "plan",
               "blob": "aec46a85511d3fa27a7f223f8813ce40b58d3399",
-              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/ROADMAP.md#L115-L130",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/ROADMAP.md#L115-L130",
               "requiresAccess": true
             }
           ],
@@ -1481,6 +1481,58 @@
               "kind": "plan",
               "blob": "aec46a85511d3fa27a7f223f8813ce40b58d3399",
               "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/ROADMAP.md#L115-L130",
+              "requiresAccess": true
+            }
+          ],
+          "reviewRequired": false,
+          "reason": "Revisión curada; objetos de evidencia y contexto sin cambios."
+        }
+      }
+    },
+    {
+      "id": "GC-021",
+      "name": "Correo transaccional (Resend)",
+      "description": "Envío de invitaciones por correo y activación segura mediante proveedor configurable.",
+      "category": "Cuenta y acceso",
+      "phase": "Antes del lanzamiento",
+      "notes": "Resend previsto como proveedor. El avance local de invitaciones aún no está integrado ni desplegado; requiere dominio/remitente verificados y prueba real. Recuperación y eliminación tienen seguimiento separado. Aceptación del proveedor no garantiza entrega.",
+      "branches": {
+        "staging": {
+          "status": "pending",
+          "commit": "a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4",
+          "verification": "Revisión estática por rama: el roadmap prevé correo transaccional y la ruta de invitaciones revisada devuelve enlace/token sin envío. El avance local de Resend no está incluido en esta referencia. Sin prueba de entrega real.",
+          "integration": "Código/documentación presente en staging remoto",
+          "publication": "Sin verificar",
+          "deployment": "Sin verificar",
+          "evidence": [
+            {
+              "path": "ROADMAP.md",
+              "start": 98,
+              "end": 99,
+              "kind": "plan",
+              "blob": "aec46a85511d3fa27a7f223f8813ce40b58d3399",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/a65cefd93a85ff0b9c9cd90022ca07b387ec7bf4/ROADMAP.md#L98-L99",
+              "requiresAccess": true
+            }
+          ],
+          "reviewRequired": false,
+          "reason": "Revisión curada; objetos de evidencia y contexto sin cambios."
+        },
+        "main": {
+          "status": "pending",
+          "commit": "08305c455f9caa552ecf5c84bdc5d59f92690c27",
+          "verification": "Revisión estática por rama: el roadmap prevé correo transaccional y la ruta de invitaciones revisada devuelve enlace/token sin envío. El avance local de Resend no está incluido en esta referencia. Sin prueba de entrega real.",
+          "integration": "Código/documentación presente en main remoto",
+          "publication": "Sin verificar",
+          "deployment": "Sin verificar",
+          "evidence": [
+            {
+              "path": "ROADMAP.md",
+              "start": 98,
+              "end": 99,
+              "kind": "plan",
+              "blob": "aec46a85511d3fa27a7f223f8813ce40b58d3399",
+              "url": "https://github.com/VictorManuel/gym-counter/blob/08305c455f9caa552ecf5c84bdc5d59f92690c27/ROADMAP.md#L98-L99",
               "requiresAccess": true
             }
           ],
